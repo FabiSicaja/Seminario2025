@@ -1,0 +1,24 @@
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\bin\Debug\Proyecto de Seminario.exe.config
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\bin\Debug\Proyecto de Seminario.exe
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\bin\Debug\Proyecto de Seminario.pdb
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\bin\Debug\EntityFramework.dll
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\bin\Debug\EntityFramework.xml
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.AdminForm.resources
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.CrearOrdenForm.resources
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.Form1.resources
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.IngresarGastoForm.resources
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.LoginForm.resources
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto_de_Seminario.Properties.Resources.resources
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.TechnicianForm.resources
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.VerGastosForm.resources
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto de Seminario.exe
+C:\Users\fabio\OneDrive\Escritorio\UMG2025\Semestre 2\Seminario\Proyecto de Seminario\obj\Debug\Proyecto de Seminario.pdb
